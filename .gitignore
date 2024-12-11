@@ -1,5 +1,6 @@
 # Environment variables
 .env
+generateWidgetUrls.js
 
 # Node modules (if applicable)
 node_modules/

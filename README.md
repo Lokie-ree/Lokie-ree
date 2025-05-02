@@ -7,10 +7,6 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokie-ree&theme=radical" alt="GitHub Streak" style="border-radius: 10px;" />
-
-<br />
-
 ## 🎯 About Me
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiMzM5NjBkYTY4MzBmMjQ5ZGJkY2JlYTVmMjY4ZmQ5ZjI2ZjZlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="Education Technology GIF" style="border-radius: 10px;" />

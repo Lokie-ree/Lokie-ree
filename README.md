@@ -22,37 +22,56 @@ Specializing in AI-powered educational tools and modern web development, I'm ded
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY1ZTg5ZjJiOGZjZGMwYzM5ZjM4OGFiNDVhOGUyZWYyOTFhZjY3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Projects Development GIF" style="border-radius: 10px;" />
 
 ### [Personal Portfolio](https://github.com/Lokie-ree/dev-portfolio)
-> Modern, responsive developer portfolio with custom animations and interactive features. Includes project carousel, tech stack showcase, and contact form with EmailJS integration. Built with Next.js, React, Tailwind CSS, and Framer Motion.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Framer%20Motion-EF008F?style=flat&logo=framer&logoColor=white" alt="Framer Motion" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="DaisyUI" style="border-radius:8px;height:20px;" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+A modern, responsive developer portfolio with:
+- Custom animations
+- Project carousel
+- Tech stack showcase
+- Contact form (EmailJS)
 
 <br />
 
 ### [Buttercream Dream E-Commerce](https://github.com/Lokie-ree/buttercream-dream)
-> Full-featured e-commerce platform for customizable cake designs. Features dynamic shopping cart, Stripe integration, and Sanity CMS for product management. Built with Next.js, React, and responsive design principles.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white" alt="Sanity" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+A full-featured e-commerce platform for customizable cakes:
+- Dynamic shopping cart
+- Stripe payments
+- Sanity CMS for product management
+- Responsive design
 
 <br />
 
 ### [Virtual Teaching Assistant](https://github.com/Lokie-ree/teacher-helper-tool)
-> Virtual teaching assistant for organizing digital resources and managing classrooms. Features resource categorization, basic class management, and assignment tracking. Built with Convex, React, and Clerk for secure authentication.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk&logoColor=white" alt="Clerk" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" /> <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+A virtual assistant for teachers to:
+- Organize digital resources
+- Manage classrooms
+- Track assignments
+- Secure authentication (Clerk)
 
 <br />
 
 ### [EdCoach AI (in development)](https://github.com/Lokie-ree/edcoach-ai)
-> AI-powered instructional support platform for school leaders and teachers. Features role-based dashboards, observation templates, AI-assisted feedback, and analytics. Built with Next.js, Convex, Clerk, and LLMs for educational context alignment.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk&logoColor=white" alt="Clerk" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white" alt="ShadCN" style="border-radius:8px;height:20px;" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" /> <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+Instructional support platform for school leaders and teachers:
+- Role-based dashboards
+- Observation templates
+- AI-assisted feedback
+- Analytics and reporting
 
 <br />
 
 ### [LinguaLogic (in development)](https://github.com/Lokie-ree/lingualogic)
-> Interactive K-5 English language learning platform focused on Science of Reading principles. Features privacy-first design, engaging learning modules, and progress tracking. Built with Convex, Next.js, and Clerk for secure authentication.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk&logoColor=white" alt="Clerk" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white" alt="ShadCN" style="border-radius:8px;height:20px;" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" /> <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+K-5 English language learning platform:
+- Science of Reading-aligned modules
+- Privacy-first design
+- Progress tracking
 
 <br />
 
@@ -61,49 +80,27 @@ Specializing in AI-powered educational tools and modern web development, I'm ded
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVjYjU3ZTYyYzU0ZmQ5MzFhMzY5Y2JiZDVhZTY4ZjQ5OGMwZjRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9i2c2fA0AIp2iq/giphy.gif" width="200" alt="Coding Skills GIF" style="border-radius: 10px;" />
 
 ### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius:8px;height:20px;" />
 <br />
 
 ### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" style="border-radius:8px;height:20px;" />
 <br />
 
 ### Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Convex-FF6B00?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex" style="border-radius:8px;height:20px;" />
 <br />
 
 ### Libraries
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Framer%20Motion-EF008F?style=flat&logo=framer&logoColor=white" alt="Framer Motion" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="DaisyUI" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" alt="GSAP" style="border-radius:8px;height:20px;" />
 <br />
 
 ### CMS & APIs
-<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-
+<img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white" alt="Sanity" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" style="border-radius:8px;height:20px;" />
 <br />
 
 ### Development Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe" style="border-radius:8px;height:20px;" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="border-radius:8px;height:20px;" />
 
 <br />
 
@@ -126,19 +123,19 @@ Specializing in AI-powered educational tools and modern web development, I'm ded
 Let's collaborate and create something amazing together! I'm always excited to connect with fellow developers, educators, and innovators.
 
 <a href="https://dev-portfolio-one-swart.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" style="border-radius:8px;height:20px;" />
 </a>
 <a href="https://www.linkedin.com/in/randall-lapoint/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;height:20px;" />
 </a>
 <a href="https://www.facebook.com/randall.lapoint.7">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" style="border-radius:8px;height:20px;" />
 </a>
 <a href="mailto:rplj1253@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius:8px;height:20px;" />
 </a>
 <a href="https://www.youtube.com/@low_key_relaxing4644">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" style="border-radius:8px;height:20px;" />
 </a>
 
 <br />

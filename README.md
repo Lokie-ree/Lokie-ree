@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Randall LaPoint, Jr.
+# <span>👋 Hi, I'm Randall LaPoint, Jr.</span>
 
 <div>
-  <h1 style="color: #0066FF; font-size: 2.5em; margin: 20px 0;">Bridging Education and Technology</h1>
-  <h3 style="color: #8A2BE2; font-size: 1.5em; margin: 10px 0;">by crafting innovative, AI-powered solutions that transform learning experiences.</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Veteran+Educator;Full+Stack+Developer;AI+Integration+Specialist;EdTech+Innovator;Building+the+Future+of+Education" alt="Dynamic Role Showcase" style="border-radius: 10px; background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66, #0066FF); background-size: 300% 300%; animation: gradient 3s ease infinite;" />
+  <h1 style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em; margin: 20px 0;">Bridging Education and Technology</h1>
+  <h3>by crafting innovative, AI-powered solutions that transform learning experiences.</h3>
 </div>
 </div>
 
 <br />
 
-## 🎯 Mission Statement
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🎯 Mission Statement</span>
 
 My journey in education is driven by an **authentic, student-first philosophy** and a passion for being a creative builder, leveraging the latest technologies to design engaging, effective, and scalable learning experiences and support systems that empower every student and educator.
 
 I believe in being 'real' with students and colleagues, fostering genuine connections, and ensuring they feel seen, supported, and capable—often through the innovative tools and platforms I develop to enhance instruction and streamline educational workflows.
 
-## 🚀 Vision for Educational Technology
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🚀 Vision for Educational Technology</span>
 
 My vision for educational technology is clear: **we must proactively embrace the rapid advancements in technology, including AI, rather than ignore them.**
 
@@ -27,7 +26,7 @@ This approach:
 - ✅ Enables intelligent resource management
 - ✅ Fuels my drive to build AI-powered instructional feedback systems and virtual assistants
 
-## 🤝 Leadership & Collaboration
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🤝 Leadership & Collaboration</span>
 
 Beyond direct application, I am a **collaborative leader and mentor**, committed to:
 
@@ -38,9 +37,9 @@ Beyond direct application, I am a **collaborative leader and mentor**, committed
 
 <br />
 
-## 🚀 Featured EdTech Projects
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🚀 Featured EdTech Projects</span>
 
-### [EdCoach AI](https://edcoachai.org) - *Continuous Growth Loop Platform*
+### [EdCoachAi](https://edcoachai.org) - *Continuous Growth Loop Platform*
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius:8px;height:20px;margin:4px;" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" style="border-radius:8px;height:20px;margin:4px;" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius:8px;height:20px;margin:4px;" /> <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex" style="border-radius:8px;height:20px;margin:4px;" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" style="border-radius:8px;height:20px;margin:4px;" /> <img src="https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcn&logoColor=white" alt="ShadCN" style="border-radius:8px;height:20px;margin:4px;" />
 
 **Transform classroom walkthroughs into a continuous, supportive, and data-informed growth loop for educators.**
@@ -100,7 +99,7 @@ A modern, responsive developer portfolio showcasing:
 
 <br />
 
-## 🎯 Strategic Vision
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🎯 Strategic Vision</span>
 
 I am passionate about not just implementing best practices, but also contributing to a **strategic vision for the future of education** where technology thoughtfully:
 
@@ -111,7 +110,7 @@ I am passionate about not just implementing best practices, but also contributin
 
 ---
 
-## 📫 Connect With Me
+## <span style="background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📫 Connect With Me</span>
 
 <div>
   <p><em>This narrative reflects my commitment to transforming education through thoughtful technology integration, authentic relationships, and innovative solutions that serve the entire educational community.</em></p>
@@ -125,12 +124,12 @@ I am passionate about not just implementing best practices, but also contributin
   <table cellpadding="10" cellspacing="10">
     <tr>
       <td align="center">
-        <a href="https://dev-portfolio-one-swart.vercel.app/">
+<a href="https://dev-portfolio-one-swart.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="border-radius:8px;margin:4px;" />
-        </a>
+</a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/randall-lapoint/">
+<a href="https://www.linkedin.com/in/randall-lapoint/">
           <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;margin:4px;" />
         </a>
       </td>
@@ -143,9 +142,6 @@ I am passionate about not just implementing best practices, but also contributin
   </table>
 </div>
 
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ready+to+transform+education+together?;Innovation+through+collaboration;Building+the+future+of+education" alt="Dynamic Call to Action" style="border-radius: 10px; background: linear-gradient(45deg, #0066FF, #8A2BE2, #00CC66, #0066FF); background-size: 300% 300%; animation: gradient 3s ease infinite;" />
-</div>
 
 <div>
   <h2>✨ Let's connect, collaborate, and create something extraordinary! 🚀</h2>
